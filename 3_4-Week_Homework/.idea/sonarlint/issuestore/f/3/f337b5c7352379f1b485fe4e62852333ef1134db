@@ -1,0 +1,8 @@
+
+Q
+java:S3740	"/Provide the parametrized type for this generic.(ãÎ¨üÿÿÿÿ8‰¿Ó•â.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Ï
+r
+java:S12067"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8­„—â.
+[
+java:S3252X">Use static access with "java.util.Calendar" for "getInstance".(¸Ùë±8ƒàºèâ.

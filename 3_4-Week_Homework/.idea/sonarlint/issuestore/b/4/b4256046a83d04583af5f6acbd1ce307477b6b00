@@ -1,0 +1,24 @@
+
+8
+java:S2438T""Argument 1" is a "Thread".(ÆÄ£8‡ú…ùâ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µª÷¦ûÿÿÿÿ
+J
+java:S1604e"(Make this anonymous inner class a lambda(Ãâ¦Íşÿÿÿÿ8‡ú…ùâ.
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8øß£õâ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Çµí‘8òÚ†ùâ.
+8
+java:S2438Q""Argument 1" is a "Thread".(Ùıíñ8‡ú…ùâ.
+v
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").(óã÷ï8‡ú…ùâ.
+=
+java:S2438H""Argument 1" is a "Thread".(â¤€ıûÿÿÿÿ8‡ú…ùâ.
+8
+java:S2438K""Argument 1" is a "Thread".(èå­×8‡ú…ùâ.
+v
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÏ•8¡‹êâ.
+=
+java:S2438N""Argument 1" is a "Thread".(ÚêÅÔıÿÿÿÿ8‡ú…ùâ.
+{
+java:S2293l"YReplace the type specification in this constructor call with the diamond operator ("<>").(”³Öûÿÿÿÿ8‡ú…ùâ.

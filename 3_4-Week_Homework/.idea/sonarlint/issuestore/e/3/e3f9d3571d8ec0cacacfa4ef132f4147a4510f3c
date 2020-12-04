@@ -1,0 +1,9 @@
+
+F
+java:S1481")Remove this unused "date" local variable.(Î‡ùş8’âõâ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ö¬Û
+>
+java:S2189""Add an end condition to this loop.(¤èÄ78’âõâ.
+]	java:S125"<This block of commented-out lines of code should be removed.(‹²à³ÿÿÿÿÿ8ŒÈˆûâ.
+U
+java:S1854"8Remove this useless assignment to local variable "date".(Î‡ùş8’âõâ.

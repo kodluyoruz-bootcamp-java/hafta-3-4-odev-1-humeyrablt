@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»ö¬Û
+>
+java:S2189""Add an end condition to this loop.(¤èÄ78Ò“‘õâ.
+U
+java:S1854"8Remove this useless assignment to local variable "date".(Î‡ùş8Ò“‘õâ.
+F
+java:S1481")Remove this unused "date" local variable.(Î‡ùş8Ò“‘õâ.
+]	java:S125"<This block of commented-out lines of code should be removed.(±ÍÖ¤şÿÿÿÿ8¹š‰ûâ.
+X	java:S125"<This block of commented-out lines of code should be removed.(Ñª˜È8Ò“‘õâ.
